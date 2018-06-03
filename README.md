@@ -1,4 +1,4 @@
-# trainer
+# Math Trainer
 
 > A Vue.js project
 
